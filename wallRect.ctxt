@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=wallRect
+comment0.text=\r\n\ Class\ for\ the\ maze\ in\ each\ level.\ \ WallRectOne,\ wallRectTwo,\r\n\ wallRectThree,\ and\ wallRectFour\ are\ all\ subclasses\ of\ this\ class.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

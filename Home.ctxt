@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Home
+comment0.text=\r\n\ Goal\ for\ the\ player\ to\ reach\ in\ order\r\n\ to\ progress\ to\ the\ next\ level.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=House
+comment0.text=\r\n\ Place\ for\ player\ to\ reach\ for\ Levels\ one\ through\ three.\r\n\ After\ player\ reaches\ here,\ progress\ to\ next\ level.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

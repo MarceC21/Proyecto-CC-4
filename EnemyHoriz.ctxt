@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyHoriz
+comment0.text=\r\n\ The\ Horizontal\ Enemy\ class.\r\n\ The\ Horizontal\ Enemy\ moves\ horizontally\ ONLY.\r\n\ The\ Horizontal\ Enemy\ eats\ the\ player.\r\n
+comment1.params=
+comment1.target=EnemyHoriz()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ changeDirection()
+comment4.params=
+comment4.target=void\ atWall()
+numComments=5

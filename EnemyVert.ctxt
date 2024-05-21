@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyVert
+comment0.text=\ The\ Vertical\ Enemy\ class.\r\n\ The\ Vertical\ Enemy\ ONLY\ walks\ vertically.\r\n\ The\ Vertical\ Enemy\ eats\ the\ player.\ \r\n
+comment1.params=
+comment1.target=EnemyVert()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ changeDirection()
+comment4.params=
+comment4.target=void\ atWall()
+numComments=5
